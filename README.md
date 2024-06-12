@@ -5,7 +5,11 @@ This is a simple weather application built with React that fetches weather data 
 
 # Technologies Used
 
-React
-Axios
-OpenWeather API
-CSS 
+- React
+- Axios
+- OpenWeather API
+
+# Features
+
+- Fetches real-time weather data from the OpenWeather API
+- Displays temperature, weather description, feels-like temperature, humidity, and wind speed
